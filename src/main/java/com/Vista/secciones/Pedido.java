@@ -973,15 +973,22 @@ public class Pedido extends javax.swing.JPanel {
 
     private void jPanel9MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel9MouseClicked
         // TODO add your handling code here:
-        Cubierta1.setBackground(new Color(230, 230, 230, 240));
-        PanelCubierta.setVisible(true);
-        PanelCubierta.removeAll();
-        PanelCubierta.repaint();
-        PanelCubierta.revalidate();
-        PanelCubierta.add(Cubierta1);
-        PanelCubierta.repaint();
-        PanelCubierta.revalidate();
+        aceptar1ActionPerformed(evt);
     }//GEN-LAST:event_jPanel9MouseClicked
+
+    private void aceptar1ActionPerformed(java.awt.event.ActionEvent evt) {
+        // Register the name, quantity, unit, and total
+        String name = "Sample Name";
+        int quantity = 1;
+        String unit = "Sample Unit";
+        double total = 100.0;
+
+        // Perform the registration logic here
+        System.out.println("Name: " + name);
+        System.out.println("Quantity: " + quantity);
+        System.out.println("Unit: " + unit);
+        System.out.println("Total: " + total);
+    }
 
     public void desabilitarformulario(){
         PanelCubierta.setVisible(false);
