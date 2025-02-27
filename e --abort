@@ -1,0 +1,48 @@
+* [33m8bdb4f3[m[33m ([m[1;31morigin/JeimyBranch[m[33m)[m 1226 je
+* [33m0cb8aae[m factpanel azulosc
+* [33mabd45e9[m Guardando cambios en JeimyBranch
+* [33m16f0e13[m crear otra seccion de factura como psnel y no como frame
+[31m|[m * [33m264a07d[m[33m ([m[1;31morigin/TaniaBranch[m[33m)[m Formulario
+[31m|[m * [33m746ece5[m mejora de mesas 12:31 2/12/2024
+[31m|[m * [33m10676ec[m 12:07 26/11/2024 mesas 2
+[31m|[m * [33m9ad1c39[m secciones
+[31m|[m * [33m87bab8c[m 7:23 a.m 26/11/2024 Cambio de colores 2
+[31m|[m * [33ma7561b6[m 7:23 a.m 26/11/2024 Cambio de colores
+[31m|[m * [33m79a3121[m 7:23 a.m 26/11/2024 Cambio de colores
+[31m|[m * [33m3c2c423[m 12:07 Pedido 2 y acomodar secciones
+[31m|[m [32m|[m * [33mdd40deb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAdrianaBranch[m[33m, [m[1;31morigin/AdrianaBranch[m[33m)[m Desarrollo de formularios
+[31m|[m [32m|[m * [33m227c738[m Desarrollo de tablas
+[31m|[m [32m|[m * [33m196bc31[m 26/11/2024 12:17 AM Desarrollo del menu parte 4
+[31m|[m [32m|[m * [33mf0b8ae4[m 26/11/2024 12:17 AM Desarrollo del menu parte 3
+[31m|[m [32m|[m * [33mcd39e53[m 26/11/2024 12:17 AM Desarrollo del menu1
+[31m|[m [32m|[m * [33md9f829b[m 26/11/2024 12:17 AM Desarrollo del menu
+[31m|[m [32m|[m * [33m65d05e0[m 26/11/2024 8:31 AM Implementacion del menu
+[31m|[m [32m|[m * [33m2d08347[m Menu
+[31m|[m [32m|[m *   [33m3414669[m Merge origin/TaniaBranch into AdrianaBranch
+[31m|[m [32m|[m [34m|[m[32m\[m  
+[31m|[m [32m|[m [34m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[34m|[m   
+[31m|[m * [34m|[m [33m6512ea9[m 11:42 pedido modal 2
+[31m|[m * [34m|[m [33m419c409[m 11:07 pedido modal
+[31m|[m * [34m|[m [33m1b6988d[m 11:07 pedido modal
+[31m|[m * [34m|[m   [33m5254d97[m Merge origin/JeimyBranch into TaniaBranch
+[31m|[m [36m|[m[31m\[m [34m\[m  
+[31m|[m [36m|[m[31m/[m [34m/[m  
+[31m|[m[31m/[m[36m|[m [34m|[m   
+[31m|[m [36m|[m *   [33mb73015a[m Merge origin/TaniaBranch into AdrianaBranch
+[31m|[m [36m|[m [1;32m|[m[36m\[m  
+[31m|[m [36m|[m [1;32m|[m[36m/[m  
+[31m|[m [36m|[m[36m/[m[1;32m|[m   
+[31m|[m * [1;32m|[m [33md3e194e[m 11:07 Imagenes
+[31m|[m [1;33m|[m * [33mc1267d6[m Merge origin/JeimyBranch into AdrianaBranch
+[31m|[m [1;33m|[m[1;33m/[m[31m|[m 
+[31m|[m [1;33m|[m[31m/[m  
+[31m|[m[31m/[m[1;33m|[m   
+* [1;33m|[m [33m9629a55[m crear otra seccion de factura como psnel y no como frame
+[1;35m|[m * [33m4572f15[m 11:00 25/11/2024
+[1;35m|[m * [33m2cec24b[m pedido_factura 10:10 25/11
+[1;35m|[m[1;35m/[m  
+* [33maf95619[m crear seccion factura
+* [33m9008f99[m 11:10 del 21/11/24 agregacion de archivos
+* [33m67479f4[m[33m ([m[1;32mJeimyBranch[m[33m)[m crear nuevo repositorio
+* [33madd5aa4[m[33m ([m[1;31morigin/main[m[33m)[m Initial commit
